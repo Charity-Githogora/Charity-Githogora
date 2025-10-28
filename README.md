@@ -21,7 +21,7 @@ I am passionate about leveraging data and artificial intelligence to solve real-
 
 #### 🛠️ Skills & Tools
 
-- **Languages**: Python
+- **Languages**: Python, SQL
 - **Frameworks**: Django
 - **Libraries**: NumPy, Seaborn, Matplotlib
 - **Data Analysis/BI**: Power BI, Excel
