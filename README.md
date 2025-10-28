@@ -23,8 +23,10 @@ I am passionate about leveraging data and artificial intelligence to solve real-
 
 - **Languages**: Python, SQL
 - **Frameworks**: Django
-- **Libraries**: NumPy, Seaborn, Matplotlib
+- **Libraries**: NumPy, Seaborn, Matplotlib, pandas, scikit-learn, TensorFlow, Keras
 - **Data Analysis/BI**: Power BI, Excel
+- **Machine Learning & AI**: scikit-learn (classical ML), TensorFlow and Keras (deep learning), pandas (data manipulation), NumPy (numerical computation), Matplotlib/Seaborn (visualization)
+- **Database**: SQL (for querying, cleaning, and transforming data in databases)
 - **Version Control**: Git, GitHub
 
 #### 📫 Let's Connect & Build!
